@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\StudentManagement\\StudentManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\dars\\studentmanagement\\studentmanagement\\studentmanagement.web\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|solutionrelative:studentmanagement.web\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\dars\\studentmanagement\\studentmanagement\\studentmanagement.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|solutionrelative:studentmanagement.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\dars\\studentmanagement\\studentmanagement\\studentmanagement.web\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|solutionrelative:studentmanagement.web\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\dars\\studentmanagement\\studentmanagement\\studentmanagement.web\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|solutionrelative:studentmanagement.web\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\dars\\studentmanagement\\studentmanagement\\studentmanagement.web\\models\\validations\\addstudentviewmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|solutionrelative:studentmanagement.web\\models\\validations\\addstudentviewmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\dars\\studentmanagement\\studentmanagement\\studentmanagement.web\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|solutionrelative:studentmanagement.web\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\dars\\studentmanagement\\studentmanagement\\studentmanagement.web\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|solutionrelative:studentmanagement.web\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\dars\\studentmanagement\\studentmanagement\\studentmanagement.web\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|solutionrelative:studentmanagement.web\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\dars\\studentmanagement\\studentmanagement\\studentmanagement.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|solutionrelative:studentmanagement.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\dars\\studentmanagement\\studentmanagement\\studentmanagement.web\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|solutionrelative:studentmanagement.web\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\dars\\studentmanagement\\studentmanagement\\studentmanagement.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|solutionrelative:studentmanagement.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\dars\\studentmanagement\\studentmanagement\\studentmanagement.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|solutionrelative:studentmanagement.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\dars\\studentmanagement\\studentmanagement\\studentmanagement.web\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|solutionrelative:studentmanagement.web\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\dars\\studentmanagement\\studentmanagement\\studentmanagement.web\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|solutionrelative:studentmanagement.web\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\dars\\studentmanagement\\studentmanagement\\studentmanagement.web\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,14 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\dars\\studentmanagement\\studentmanagement\\studentmanagement.web\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|solutionrelative:studentmanagement.web\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\dars\\studentmanagement\\studentmanagement\\studentmanagement.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|solutionrelative:studentmanagement.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\dars\\studentmanagement\\studentmanagement\\studentmanagement.web\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|solutionrelative:studentmanagement.web\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E12106D5-8B71-4C59-A098-72E62B190CDC}|StudentManagement.Web\\StudentManagement.Web.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\dars\\studentmanagement\\studentmanagement\\studentmanagement.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,37 +66,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\StudentManagement\\StudentManagement\\StudentManagement.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "StudentManagement.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\StudentManagement\\StudentManagement\\StudentManagement.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "StudentManagement.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-09T17:49:32.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\StudentManagement\\StudentManagement\\StudentManagement.Web\\Views\\Student\\Edit.cshtml",
-              "RelativeDocumentMoniker": "StudentManagement.Web\\Views\\Student\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\StudentManagement\\StudentManagement\\StudentManagement.Web\\Views\\Student\\Edit.cshtml",
-              "RelativeToolTip": "StudentManagement.Web\\Views\\Student\\Edit.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAADAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-09T17:46:32.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "List.cshtml",
               "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\StudentManagement\\StudentManagement\\StudentManagement.Web\\Views\\Student\\List.cshtml",
               "RelativeDocumentMoniker": "StudentManagement.Web\\Views\\Student\\List.cshtml",
@@ -84,12 +78,11 @@
               "RelativeToolTip": "StudentManagement.Web\\Views\\Student\\List.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAiwA0AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-09T17:36:37.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T17:36:37.209Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AddStudentViewModel.cs",
               "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\StudentManagement\\StudentManagement\\StudentManagement.Web\\Models\\AddStudentViewModel.cs",
               "RelativeDocumentMoniker": "StudentManagement.Web\\Models\\AddStudentViewModel.cs",
@@ -102,33 +95,124 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\StudentManagement\\StudentManagement\\StudentManagement.Web\\Views\\Student\\Add.cshtml",
-              "RelativeDocumentMoniker": "StudentManagement.Web\\Views\\Student\\Add.cshtml",
-              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\StudentManagement\\StudentManagement\\StudentManagement.Web\\Views\\Student\\Add.cshtml",
-              "RelativeToolTip": "StudentManagement.Web\\Views\\Student\\Add.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAwAYAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-09T17:10:28.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\StudentManagement\\StudentManagement\\StudentManagement.Web\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "StudentManagement.Web\\Controllers\\StudentController.cs",
               "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\StudentManagement\\StudentManagement\\StudentManagement.Web\\Controllers\\StudentController.cs",
               "RelativeToolTip": "StudentManagement.Web\\Controllers\\StudentController.cs",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAuwFcAAAAAAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T17:09:38.108Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\StudentManagement\\StudentManagement\\StudentManagement.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\StudentManagement\\StudentManagement\\StudentManagement.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "StudentManagement.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T03:57:32.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\StudentManagement\\StudentManagement\\StudentManagement.Web\\Views\\Student\\Add.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement.Web\\Views\\Student\\Add.cshtml",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\StudentManagement\\StudentManagement\\StudentManagement.Web\\Views\\Student\\Add.cshtml",
+              "RelativeToolTip": "StudentManagement.Web\\Views\\Student\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T17:10:28.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddStudentViewModelValidator.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\StudentManagement\\StudentManagement\\StudentManagement.Web\\Models\\Validations\\AddStudentViewModelValidator.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Web\\Models\\Validations\\AddStudentViewModelValidator.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\StudentManagement\\StudentManagement\\StudentManagement.Web\\Models\\Validations\\AddStudentViewModelValidator.cs",
+              "RelativeToolTip": "StudentManagement.Web\\Models\\Validations\\AddStudentViewModelValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T04:08:46.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\StudentManagement\\StudentManagement\\StudentManagement.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\StudentManagement\\StudentManagement\\StudentManagement.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentManagement.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAACKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T17:49:32.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\StudentManagement\\StudentManagement\\StudentManagement.Web\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement.Web\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\StudentManagement\\StudentManagement\\StudentManagement.Web\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "StudentManagement.Web\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T17:46:32.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\StudentManagement\\StudentManagement\\StudentManagement.Web\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "StudentManagement.Web\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\StudentManagement\\StudentManagement\\StudentManagement.Web\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "StudentManagement.Web\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-10T04:32:46.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\StudentManagement\\StudentManagement\\StudentManagement.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\StudentManagement\\StudentManagement\\StudentManagement.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StudentManagement.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T03:54:45.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\StudentManagement\\StudentManagement\\StudentManagement.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement.Web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\StudentManagement\\StudentManagement\\StudentManagement.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "StudentManagement.Web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T03:55:29.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\StudentManagement\\StudentManagement\\StudentManagement.Web\\Program.cs",
               "RelativeDocumentMoniker": "StudentManagement.Web\\Program.cs",
@@ -136,12 +220,11 @@
               "RelativeToolTip": "StudentManagement.Web\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T16:54:04.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T16:54:04.238Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\StudentManagement\\StudentManagement\\StudentManagement.Web\\Models\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "StudentManagement.Web\\Models\\Entities\\Student.cs",
@@ -149,12 +232,11 @@
               "RelativeToolTip": "StudentManagement.Web\\Models\\Entities\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T16:49:28.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T16:49:28.556Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Dars\\StudentManagement\\StudentManagement\\StudentManagement.Web\\Persistence\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "StudentManagement.Web\\Persistence\\ApplicationDbContext.cs",
@@ -162,8 +244,7 @@
               "RelativeToolTip": "StudentManagement.Web\\Persistence\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T16:48:31.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T16:48:31.247Z"
             }
           ]
         }

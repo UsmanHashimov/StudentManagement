@@ -102,3 +102,4 @@ C:\Users\A C E R   N I T R O\Documents\.NET\Dars\StudentManagement\StudentManage
 C:\Users\A C E R   N I T R O\Documents\.NET\Dars\StudentManagement\StudentManagement\StudentManagement.Web\obj\Debug\net8.0\StudentManagement.Web.pdb
 C:\Users\A C E R   N I T R O\Documents\.NET\Dars\StudentManagement\StudentManagement\StudentManagement.Web\obj\Debug\net8.0\StudentManagement.Web.genruntimeconfig.cache
 C:\Users\A C E R   N I T R O\Documents\.NET\Dars\StudentManagement\StudentManagement\StudentManagement.Web\obj\Debug\net8.0\ref\StudentManagement.Web.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Dars\StudentManagement\StudentManagement\StudentManagement.Web\bin\Debug\net8.0\FluentValidation.dll

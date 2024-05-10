@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using StudentManagement.Web.Models;
 using StudentManagement.Web.Models.Entities;
+using StudentManagement.Web.Models.Validations;
 using StudentManagement.Web.Persistence;
 
 namespace StudentManagement.Web.Controllers
@@ -24,18 +25,26 @@ namespace StudentManagement.Web.Controllers
         [HttpPost]
         public async Task<IActionResult> Add(AddStudentViewModel model)
         {
-            var student = new Student
+            AddStudentViewModelValidator validator = new AddStudentViewModelValidator();
+
+            var validatorResults = validator.Validate(model);
+
+            if (validatorResults.IsValid)
             {
-                Name = model.Name,
-                Email = model.Email,
-                Phone = model.Phone,
-                isSubscribed = model.isSubscribed
-            };
+                var student = new Student
+                {
+                    Name = model.Name,
+                    Email = model.Email,
+                    Phone = model.Phone,
+                    isSubscribed = model.isSubscribed
+                };
 
-            await _context.Students.AddAsync(student);
-            await _context.SaveChangesAsync();
+                await _context.Students.AddAsync(student);
+                await _context.SaveChangesAsync();
+                return RedirectToAction("Index", "Home");
+            }
 
-            return RedirectToAction("Index", "Home");
+            return View(model);
         }
 
         [HttpGet]
